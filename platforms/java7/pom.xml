@@ -23,7 +23,7 @@
   <parent>
     <groupId>org.apache.edgent</groupId>
     <artifactId>edgent-platforms</artifactId>
-    <version>9.10.0</version>
+    <version>9.10.1-SNAPSHOT</version>
   </parent>
 
   <groupId>org.apache.edgent.java7</groupId>
