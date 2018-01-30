@@ -23,7 +23,7 @@
   <parent>
     <groupId>org.apache.edgent.android</groupId>
     <artifactId>edgent-connectors</artifactId>
-    <version>9.10.1-SNAPSHOT</version>
+    <version>9.10.0</version>
   </parent>
 
   <artifactId>edgent-connectors-websocket</artifactId>
@@ -67,17 +67,17 @@
     <dependency>
       <groupId>org.apache.edgent.android</groupId>
       <artifactId>edgent-connectors-common</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent.android</groupId>
       <artifactId>edgent-connectors-websocket-misc</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent.android</groupId>
       <artifactId>edgent-connectors-websocket-base</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
     </dependency>
     <dependency>
       <groupId>javax.websocket</groupId>

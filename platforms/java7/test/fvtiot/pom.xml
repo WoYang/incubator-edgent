@@ -23,7 +23,7 @@
   <parent>
     <groupId>org.apache.edgent.java7</groupId>
     <artifactId>edgent-test</artifactId>
-    <version>9.10.1-SNAPSHOT</version>
+    <version>9.10.0</version>
   </parent>
 
   <artifactId>edgent-test-fvtiot</artifactId>
@@ -108,38 +108,38 @@
     <dependency>
       <groupId>org.apache.edgent.java7</groupId>
       <artifactId>edgent-connectors-pubsub</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent.java7</groupId>
       <artifactId>edgent-runtime-jsoncontrol</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent.java7</groupId>
       <artifactId>edgent-providers-direct</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent.java7</groupId>
       <artifactId>edgent-apps-iot</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent.java7</groupId>
       <artifactId>edgent-apps-iot</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
       <type>test-jar</type>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent.java7</groupId>
       <artifactId>edgent-providers-iot</artifactId>
-      <version>9.10.1-SNAPSHOT</version>
+      <version>9.10.0</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
