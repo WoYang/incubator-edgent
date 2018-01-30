@@ -19,6 +19,8 @@
 
 = Releasing Edgent
 
+FAKE CHANGE TO SIMULATE FIX FOR VOTE FAILED FOR FAKE release/9.10.0-RC1
+
 This document covers a portion of the workflow that a Release Manager must execute to create release candidates and to ultimately publish a release. Start with the link:https://cwiki.apache.org/confluence/display/EDGENT/Release+Manager%27s+Guide[Release Manager's Guide].
 
 TODO: better integrate these two documents.
