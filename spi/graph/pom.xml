@@ -23,7 +23,7 @@
   <parent>
     <groupId>org.apache.edgent</groupId>
     <artifactId>edgent-spi</artifactId>
-    <version>9.10.0</version>
+    <version>9.10.1-SNAPSHOT</version>
   </parent>
 
   <artifactId>edgent-spi-graph</artifactId>
@@ -38,12 +38,12 @@
     <dependency>
       <groupId>org.apache.edgent</groupId>
       <artifactId>edgent-api-execution</artifactId>
-      <version>9.10.0</version>
+      <version>9.10.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.edgent</groupId>
       <artifactId>edgent-api-graph</artifactId>
-      <version>9.10.0</version>
+      <version>9.10.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 
